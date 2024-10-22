@@ -1,7 +1,8 @@
-import { Text } from "react-native";
+import { Text } from "@/components/ui/text"
 
 export default function ProductListItem( { product } ) {
     return (
-        <Text style={{ fontSize: 30 }}>{product.name}</Text>
+        <Text size="2xl">{product.name}</Text>
+        
     )
 }
