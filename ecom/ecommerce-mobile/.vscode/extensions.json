@@ -1,5 +1,13 @@
 {
     "recommendations": [
-        "gluestack.gluestack-vscode"
+        "dsznajder.es7-react-js-snippets",
+        "planbcoding.vscode-react-refactor",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "eamodio.gitlens",
+        "formulahendry.auto-rename-tag",
+        "pkief.material-icon-theme",
+        "gluestack.gluestack-vscode",
+        "bradlc.vscode-tailwindcss"
     ]
 }

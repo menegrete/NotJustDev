@@ -1,0 +1,7 @@
+{
+    "tailwindCSS.experimental.classRegex": [
+      ["tva\\((([^()]*|\\([^()]*\\))*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"]
+    ],
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true
+}
